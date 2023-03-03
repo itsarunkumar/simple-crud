@@ -1,0 +1,19 @@
+{
+  "name": "zapit-backend",
+  "version": "1.0.0",
+  "description": "this is assingment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "arun",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "memory-cache": "^0.2.0",
+    "mongoose": "^7.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
